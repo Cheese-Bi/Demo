@@ -111,7 +111,7 @@
                                                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Home</a>
                                                  <div class="dropdown-menu">
                                                     <ul class="mega-menu-links">
-                                                       <li><a href="index.html">home</a></li>
+                                                       <li><a href="index.html">Admin</a></li>
                                                        <li><a href="home2.html">home2</a></li>
                                                        <li><a href="home3.html">home3</a></li>
                                                        <li><a href="productlitst.html">Productlitst</a></li>
